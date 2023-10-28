@@ -6,6 +6,7 @@ public class Main {
         int num = sc.nextInt();
         int[] number;
         number = new int[num];
+        int i=0;
 
         for(int i=0; i<num; i++){
             number[i] = sc.nextInt();
